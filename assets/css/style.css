@@ -1,0 +1,46 @@
+body{
+    margin:0;
+    padding: 0;
+}
+
+.part1{
+    background: white;
+    width: 100px;
+    height: 50px;
+}
+
+.part2{
+    background: rgb(246, 246, 246);
+    width: 100%;
+    height: 700px;
+}
+
+.part3{
+    background: white;
+    height: 500px;
+    width: 100%;
+}
+
+.part4{
+    background: rgb(246, 246, 246);
+    width: 100%;
+    height: 800px;
+}
+
+.part5{
+    background: white;
+    width: 100%;
+    height: 600px;
+}
+
+.part6{
+    background-color: #464646;
+    width: 100%;
+    height: 170px;
+}
+
+.part7{
+    background: rgb(0, 0, 0);
+    width: 100%;
+    height: 50px;
+}
